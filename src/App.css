@@ -1,0 +1,31 @@
+body{
+    background-color: #F4D467 !important;
+    
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/779/691/639/movies-film-reel-technology-projector-8mm-wallpaper-preview.jpg") ;   
+    height: 100%;
+  background-size: cover;
+    background-attachment: fixed;
+}
+
+.list-group{
+    background-image: linear-gradient(to right,#98BCD2,#1d446b);
+    
+    
+}
+
+img{
+    object-fit: cover;
+}
+
+.card-footer{
+    background-color: #05274A !important;
+    color: aliceblue !important;
+}
+
+#haupt-title{
+    color:white !important;
+    background-color: #7fabc7c4;
+    padding: 5px 1.5rem;
+    border-radius:2rem 5rem;
+    
+}
