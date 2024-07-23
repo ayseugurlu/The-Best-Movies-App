@@ -40,7 +40,8 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project Snapshot](./thebestmoviesapp.gif")
+![thebestmoviesapp](https://github.com/user-attachments/assets/cbf3df76-38a2-4c35-9e20-499f34a5d72b)
+
 
 ## Objective
 
