@@ -1,13 +1,12 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-<br>
 
-# Project-02: NBA Legends App (RP-02)
+
+
+# The Best Movies App
 
 ## Description
 
-Project aims to create a NBA Legends App.
+Project aims to create a Best Movies App App.
 
 ## Problem Statement
 
@@ -16,7 +15,7 @@ Project aims to create a NBA Legends App.
 ## Project Skeleton
 
 ```
-02-NBA Legends(folder)
+02-The-Best-Movies-App(folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
@@ -41,11 +40,11 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project Snapshot](./nba-legends.gif)
+![Project Snapshot](./thebestmoviesapp.gif")
 
 ## Objective
 
-Build a NBA Legends App using ReactJS.
+Build a Best Movies App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
@@ -79,6 +78,6 @@ Build a NBA Legends App using ReactJS.
 
 ## Demo
 
-<a href="https://nba-legends.vercel.app/" target="_blank">NBA Legends App</a>
+<a href="https://thebestmoviesapp.netlify.app/" target="_blank">The Best Movies App</a>
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
